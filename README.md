@@ -1,4 +1,4 @@
-# Rails React API BCRYPT
+# Rails API BCRYPT
 
 ## `Date created`
 #### 3/24/2021
